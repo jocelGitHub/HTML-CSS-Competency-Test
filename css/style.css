@@ -1,0 +1,102 @@
+.logo{
+  font-family:Helvetica;
+  font-size:28px;
+  color:#FFFFFF;
+}
+.navigation{
+  cursor: pointer;
+  font-family:Helvetica;
+  font-size:20px;
+  color:#FFFFFF;
+}
+.lbl_product_name{
+  font-family:Helvetica;
+  font-size:36px;
+  color:#333333;
+}
+.lbl_1{
+  margin-top:5px;
+  font-family:Helvetica;
+  color:#CCCCCC;
+}
+.bgBox {
+  margin-left: 80px;
+  min-height: 20px;
+  width: 1000px;
+  padding:25px;
+  margin-bottom: 20px;
+  background-color: #FFFFFF;
+  border: 1px solid #CCCCCC;
+}
+.bgBody {
+  margin-top: -20px;s
+  padding:25px;
+  background-color: #FFFFFF;
+}
+.imgBox1{
+  margin-left: 40px;
+  height: 350px;
+  width: 250px;
+  margin-bottom: 20px;
+  background-color: #CCCCCC;
+}
+.imgBox2{
+  height: 30px;
+  width: 30px;
+  margin-bottom: 20px;
+  background-color: #CCCCCC;
+}
+.imgBox3{
+  margin-left: 50px;
+  height: 80px;
+  width: 80px;
+  margin-bottom: 20px;
+  background-color: #CCCCCC;
+}
+.btn1{
+  height: 50px;
+  width: 200px;
+  background-color: #c4df9b;
+}
+.btn2{
+  height: 50px;
+  width: 200px;
+  background-color: #f9ad81;
+}
+.lbl_btn{
+  padding-top:15px;
+  margin-left:70px;
+  font-size:28px;
+  cursor: pointer;
+}
+.bgBox_2 {
+  margin-left: 80px;
+  min-height: 20px;
+  width: 680px;
+  padding:25px;
+  margin-bottom: 20px;
+  background-color: #FFFFFF;
+  border: 1px solid #CCCCCC;
+}
+.lbl_user_name{
+  margin-top: 15px;
+  font-family:Helvetica;
+  font-size:24px;
+  color:#333333;
+}
+.lbl_user_date{
+  margin-top: -10px;
+  font-family:Helvetica;
+  font-size:16px;
+  color:#CCCCCC;
+}
+.lbl_user_mess{
+  font-family:Helvetica;
+  font-size:16px;
+  color:#333333;
+}
+.imgBox1_align{
+  float:right;
+  margin-right:100px;
+  margin-top:-240px;
+}
